@@ -92,7 +92,7 @@ fun SerialCatalogApp() {
 }
 @Preview(showBackground = true)
 @Composable
-private fun SerialCardPrewiew() {
+private fun SerialCardPreview() {
     Andr_KuzTheme {
         SerialCard(
             Serial(
@@ -103,3 +103,8 @@ private fun SerialCardPrewiew() {
         )
     }
 }
+@Composable
+fun SerialButtons() {
+
+}
+
