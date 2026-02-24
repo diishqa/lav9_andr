@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">andr_Kuz</string>
+    
+    <string name="ser1">Мышь</string>
+    <string name="ser2">Болтун</string>
+    <string name="ser3">Скажи, что ты видела</string>
+    <string name="ser4">Класс лжецов</string>
+    <string name="ser5">Голос</string>
+    <string name="ser6">Богомол</string>
+    <string name="ser7">Связь</string>
+    <string name="ser8">Искуствоо Сары</string>
+    <string name="ser9">Цветок зла</string>
+    <string name="ser10">Паразиты</string>
+    
+    <string name="ser1_description">Кто убийца ваще не пон?</string>
+    <string name="ser2_description">Стал крутым и сел в тюрьму</string>
+    <string name="ser3_description">Капец какая у нее памать зрительная ваще </string>
+    <string name="ser4_description">В школе все чет мутят темки какие то и 1 убийца</string>
+    <string name="ser5_description">Очень крутая девушка из полиции у который супер слух и она слышит все.</string>
+    <string name="ser6_description">Детекив у которого мать убийца расследует преступления связанные с ним и его мамой</string>
+    <string name="ser7_description">не помню</string>
+    <string name="ser8_description">Очень крутая дама провернула жесткую схему обманула и всех ваще крутая она реально</string>
+    <string name="ser9_description">Жена думает что ее муж убийца тк его отец был убийцей но там ваще туда сюда загадки</string>
+    <string name="ser10_description">Семья избавилась от другой семьи и встала на их место</string>
+</resources>
